@@ -41,11 +41,31 @@
   transition: .4s;
 }
 
-.hero__title,
-.hero__subtitle {
-  margin-bottom: 0;
-}
-
 .hero .button {
   margin-top: .8rem;
 }
+
+.hero--primary {
+  background: transparent;
+}
+
+.header__svg {
+  display: block;
+  filter: var(--svg-color-primary);
+  width: calc(110% + 1.3px);
+  height: 110px;
+}
+
+/* header {
+  position: relative;
+}
+
+header::before {
+  content: url("../../static/img/svg-test.svg");
+  position: relative;
+  width: calc(110% + 1.3px);
+  height: 110px;
+  bottom: 0;
+  filter: var(--svg-color-primary);
+  z-index: 2;
+} */
