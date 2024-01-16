@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmcni_docs=self.webpackChunkmcni_docs||[]).push([[6899],{5418:s=>{s.exports=JSON.parse('{"label":"docusaurus","permalink":"/MCNIDocs/blog/tags/docusaurus","allTagsPath":"/MCNIDocs/blog/tags","count":4,"unlisted":false}')}}]);
