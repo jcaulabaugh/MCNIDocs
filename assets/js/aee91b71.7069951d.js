@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmcni_docs=self.webpackChunkmcni_docs||[]).push([[909],{4950:s=>{s.exports=JSON.parse('{"label":"facebook","permalink":"/MCNIDocs/blog/tags/facebook","allTagsPath":"/MCNIDocs/blog/tags","count":1,"unlisted":false}')}}]);
