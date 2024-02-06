@@ -11,12 +11,12 @@ const config: Config = {
   url: 'https://your-docusaurus-site.example.com',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
-  baseUrl: '/',
+  baseUrl: '/MCNIDocs/',
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
-  organizationName: 'MCNi360', // Usually your GitHub org/user name.
-  projectName: 'MCNI360 Documentation', // Usually your repo name.
+  organizationName: 'jcaulabaugh', // Usually your GitHub org/user name.
+  projectName: 'MCNIDocs', // Usually your repo name.
 
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
