@@ -8,7 +8,7 @@ const config: Config = {
   favicon: 'img/mcni360_logo_blue.ico',
 
   // Set the production url of your site here
-  url: 'https://your-docusaurus-site.example.com',
+  url: 'https://jcaulabaugh.github.io/',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
   baseUrl: '/MCNIDocs/',
@@ -17,7 +17,7 @@ const config: Config = {
   // If you aren't using GitHub pages, you don't need these.
   organizationName: 'jcaulabaugh', // Usually your GitHub org/user name.
   projectName: 'MCNIDocs', // Usually your repo name.
-
+  deploymentBranch: "gh-pages",
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
 
